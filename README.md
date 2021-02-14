@@ -1,5 +1,5 @@
 - 👋 Hi, I’m GODWIN-GEO
-- 👀 I’m interested in front End Development
+- 👀 I’m interested in front End Development.
 - 🌱 I’m currently learning how to be a good developer.
-- 💞️ I’m looking for a person who can enlarge my skills
+- 💞️ I’m looking for a person who can enlarge my skils.
 - 📫 https://www.linkedin.com/in/godwin-geo-rc
